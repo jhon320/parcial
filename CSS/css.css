@@ -3,6 +3,9 @@
     margin: 0;
     background-color: red;
 }
+#navbarNav{
+    
+}
 .contenedor-img-1{
     display: flex;
     border: 2px;
